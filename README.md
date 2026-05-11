@@ -1,11 +1,47 @@
-# Hi, I'm Devansh Singh
+# 💻 Tech Stack (Core Technologies & Tools)
 
-# Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+      <br><br>
+      <strong>HTML</strong>
+    </td>
 
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br><br>
+      <strong>CSS</strong>
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+      <br><br>
+      <strong>JavaScript</strong>
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <br><br>
+      <strong>React</strong>
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+      <br><br>
+      <strong>Tailwind CSS</strong>
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br><br>
+      <strong>Git</strong>
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <br><br>
+      <strong>GitHub</strong>
+    </td>
+  </tr>
+</table>
