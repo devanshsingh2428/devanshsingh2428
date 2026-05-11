@@ -28,7 +28,7 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="Tailwind CSS"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65" alt="Tailwind CSS"/>
 <br><br>
 <strong>Tailwind CSS</strong>
 </td>
@@ -40,7 +40,7 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github-dark" width="65" height="65" alt="GitHub"/>
 <br><br>
 <strong>GitHub</strong>
 </td>
