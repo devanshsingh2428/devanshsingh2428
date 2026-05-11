@@ -28,8 +28,8 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55" alt="Tailwind CSS"/>
-<br><br>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65" alt="Tailwind CSS"/>
+<br>
 <strong>Tailwind CSS</strong>
 </td>
 
