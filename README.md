@@ -40,7 +40,7 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github-dark" width="65" height="65" alt="GitHub"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65" alt="GitHub"/>
 <br><br>
 <strong>GitHub</strong>
 </td>
