@@ -5,6 +5,7 @@
 - Currently I am in learning phase of Full Stack Web Development
 - Learning React*
 - Contact with me via   devansh.2428csit1123@gmail.com
+- LinkedIn https://www.linkedin.com/in/devansh-singh-826b83381/
 
 
 
