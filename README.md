@@ -1,3 +1,17 @@
+<h1 align="center">Hello, I am Devansh Singh</h1>
+
+## About Me
+
+- Currently I am in learning phase of Full Stack Web Development
+- Learning React*
+- Contact with me via   devansh.2428csit1123@gmail.com
+
+
+
+
+
+
+
 # 💻 Tech Stack (Core Technologies & Tools)
 
 <table>
@@ -21,11 +35,7 @@
 <strong>JavaScript</strong>
 </td>
 
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React"/>
-<br><br>
-<strong>React</strong>
-</td>
+
 
 <td align="center" width="120">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65" alt="Tailwind CSS"/>
@@ -43,6 +53,12 @@
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65" alt="GitHub"/>
 <br><br>
 <strong>GitHub</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React"/>
+<br><br>
+<strong>React</strong>
 </td>
 
 </tr>
