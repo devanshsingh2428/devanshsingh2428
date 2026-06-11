@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Singh</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from India 🚀</h3>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devanshsingh2428&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
