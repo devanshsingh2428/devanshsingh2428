@@ -1,19 +1,33 @@
-<h1 align="center">Hello, I am Devansh Singh</h1>
+<h1 align="center">Hi 👋, I'm Devansh Singh</h1>
+<h3 align="center">A Passionate Full Stack Web Developer from India 🚀</h3>
 
-## About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devanshsingh2428&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- Currently I am in learning phase of Full Stack Web Development
-- Learning React*
-- Contact with me via   devansh.2428csit1123@gmail.com
-- LinkedIn https://www.linkedin.com/in/devansh-singh-826b83381/
+---
+
+# 👨‍💻 About Me
+
+- 🌱 Currently learning **Full Stack Web Development**
+- ⚛️ Exploring **React.js** and building projects
+- 💡 Interested in **Web Development, DSA & Problem Solving**
+- 📚 Always learning and improving my skills
+- 📫 Reach me at: **devansh.2428csit1123@gmail.com**
+
+### 🔗 Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/devansh-singh-826b83381/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
 
 
 
-
-
-
-
-# 💻 Tech Stack (Core Technologies & Tools)
+# 💻 Tech Stack
 
 <table>
 <tr>
@@ -36,12 +50,16 @@
 <strong>JavaScript</strong>
 </td>
 
-
-
 <td align="center" width="120">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" height="55" alt="Tailwind CSS"/>
-<br>
+<br><br>
 <strong>Tailwind CSS</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/>
+<br><br>
+<strong>React</strong>
 </td>
 
 <td align="center" width="120">
@@ -56,11 +74,37 @@
 <strong>GitHub</strong>
 </td>
 
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/>
-<br><br>
-<strong>React</strong>
-</td>
-
 </tr>
 </table>
+
+---
+
+# 🚀 Currently Learning
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🔥 Modern JavaScript (ES6+)
+- 🌐 Frontend Development
+- 🛠️ Git & GitHub
+
+---
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devanshsingh2428&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devanshsingh2428&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshsingh2428&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile! ⭐</b>
+</p>
