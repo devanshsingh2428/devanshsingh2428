@@ -81,11 +81,7 @@
 
 # 🚀 Currently Learning
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 🔥 Modern JavaScript (ES6+)
-- 🌐 Frontend Development
-- 🛠️ Git & GitHub
+- ⚛️ React.js*
 
 ---
 # 🔥 GitHub Streak
