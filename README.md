@@ -85,9 +85,9 @@
 
 ---
 
-# 🚀 Currently Learning
+# 🚀 Currently Exploring
 
-- ⚛️ React.js*
+- Backend Technologies
 
 ---
 <p align="center">
