@@ -7,11 +7,11 @@
 
 # 👨‍💻 About Me
 
-- 🌱 Currently learning **Full Stack Web Development**
-- ⚛️ Exploring **React.js** and building projects
-- 💡 Interested in **Web Development, DSA & Problem Solving**
-- 📚 Always learning and improving my skills
-- 📫 Reach me at: **devansh.2428csit1123@gmail.com**
+- Currently learning **Full Stack Web Development**
+- Exploring backend technologies and building projects
+- Interested in **Web Development, DSA & Problem Solving**
+- Always learning and improving my skills
+- Reach me at: **devansh.2428csit1123@gmail.com**
 
 ### 🔗 Connect with Me
 
