@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Devansh Singh</h1>
+<h1 align="center">Hi, I'm Devansh Singh</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 - Currently learning **Full Stack Web Development**
 - Exploring backend technologies and building projects
@@ -25,7 +25,7 @@
 
 
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <table>
 <tr>
@@ -85,11 +85,11 @@
 
 ---
 
-# 🚀 Currently Exploring
+#  Currently Exploring
 
 - Backend Technologies
 
 ---
 <p align="center">
-  <b>⭐ Thanks for visiting my profile! ⭐</b>
+  <b> Thanks for visiting my profile! </b>
 </p>
